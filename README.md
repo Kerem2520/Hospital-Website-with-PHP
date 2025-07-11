@@ -1,4 +1,7 @@
 
 ## Images
 
-![Images](Hospital-Website-with-PHP/resimler/gorsel1.png)
+![Images](Image1.png)  
+![Images](Image2.png)  
+![Images](Image3.png)  
+![Images](Image4.png)  
