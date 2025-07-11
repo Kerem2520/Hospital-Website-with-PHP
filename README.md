@@ -1,4 +1,4 @@
 
 ## Images
 
-![Images](/Hospital Website/resimler/gorsel1.png)
+![Images](Hospital-Website-with-PHP/resimler/gorsel1.png)
