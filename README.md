@@ -1,4 +1,4 @@
 
 ## Images
 
-![Images](resimler/gorsel1.png)
+![Images](/resimler/gorsel1.png)
